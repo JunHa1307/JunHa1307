@@ -21,7 +21,7 @@ KH_C_SEMI_THE_GROWING -> (Java) 커뮤니티 사이트
 <br/>
 <br/>
 pokemon-dist -> 
-(https://pokical.com) 포켓몬 데미지 계산기  && 파티 분석 사이트 현재 배포중
+(https://pokical.com) 포켓몬 데미지 계산기 한글화 && 파티 분석 사이트 현재 배포중
 <br/>
 <br/>
 Clone-Practice_https-design.samsung.com-kr
