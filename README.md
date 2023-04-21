@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 주요 프로젝트
-- [KH_C_SEMI_THE_GROWING](https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING) -> (Java, JS) 커뮤니티 사이트
+- [KH_C_SEMI_THE_GROWING](https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING) -> (Java, JS , 팀) 커뮤니티 사이트
 
-- [pokical-dist](https://github.com/JunHa1307/pokemon-dist) -> (JS)포켓몬 데미지 계산기 && 파티분석 <https://pokical.com/> 현재 배포 중
+- [pokical-dist](https://github.com/JunHa1307/pokemon-dist) -> (JS, 개인)포켓몬 데미지 계산기 && 파티분석 <https://pokical.com/> 현재 배포 중
 
-- [Clone-Practice_https-design.samsung.com-kr](https://github.com/JunHa1307/Clone-Practice_https-design.samsung.com-kr) -> (JS)디자인 삼성 클론 코딩
+- [Clone-Practice_https-design.samsung.com-kr](https://github.com/JunHa1307/Clone-Practice_https-design.samsung.com-kr) -> (JS , 팀)디자인 삼성 클론 코딩
 
-- [ArrangingSeats](https://github.com/JunHa1307/ArrangingSeats) -> (Java) 학급 자리 교체 GUI
+- [ArrangingSeats](https://github.com/JunHa1307/ArrangingSeats) -> (Java , ) 학급 자리 교체 GUI
