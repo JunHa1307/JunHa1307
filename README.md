@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 주요 프로젝트
-- [KH_C_SEMI_THE_GROWING](https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING) -> (Java) 커뮤니티 사이트
+- [KH_C_SEMI_THE_GROWING](https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING) -> (Java, JS) 커뮤니티 사이트
 
 - [pokical-dist](https://github.com/JunHa1307/pokemon-dist) -> (JS)포켓몬 데미지 계산기 && 파티분석 <https://pokical.com/> 현재 배포 중
 
