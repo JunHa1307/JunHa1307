@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - [Clone-Practice_https-design.samsung.com-kr](https://github.com/JunHa1307/Clone-Practice_https-design.samsung.com-kr) -> (JS , 팀)디자인 삼성 클론 코딩
 
-- [ArrangingSeats](https://github.com/JunHa1307/ArrangingSeats) -> (Java , ) 학급 자리 교체 GUI
+- [ArrangingSeats](https://github.com/JunHa1307/ArrangingSeats) -> (Java , 개인) 학급 자리 교체 GUI
