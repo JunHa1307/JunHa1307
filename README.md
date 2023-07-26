@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 주요 프로젝트
 
-- [ZIPDREAM](https://github.com/ZIPDREAM-WORKSPACE/ZIPDREAM) -> (Java, JS , 팀) 부동산 사이트
+- [ZIPDREAM](https://github.com/ZIPDREAM-WORKSPACE/ZIPDREAM) -> (Java Spring, JS , 팀) 부동산 사이트
 
 - [KH_C_SEMI_THE_GROWING](https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING) -> (Java, JS , 팀) 커뮤니티 사이트
 
